@@ -1,0 +1,15 @@
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\bin\Debug\Family tree.exe.config
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\bin\Debug\Family tree.exe
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\bin\Debug\Family tree.pdb
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family tree.csproj.AssemblyReference.cache
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Form1.resources
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Form2.resources
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Properties.Resources.resources
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family tree.csproj.GenerateResource.cache
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family tree.csproj.CoreCompileInputs.cache
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family tree.exe
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family tree.pdb
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Form3.resources
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Form4.resources
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Form5.resources
+C:\Users\Евросеть\YandexDisk\Учеба\3 курс\1 семестр\ИТиПрис\Family tree\Family tree\obj\Debug\Family_tree.Form6.resources
